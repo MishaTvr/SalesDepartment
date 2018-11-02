@@ -1,3 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <clients>
+    <client>
+        <property>
+            <name>id</name>
+            <value>1</value>
+        </property>
+        <property>
+            <name>address</name>
+            <value>i'm lazy to do it bro, imagine please by urself</value>
+        </property>
+        <!--придумать самому 3-4 проперти, важные для хранения -->
+    </client>
 </clients>
